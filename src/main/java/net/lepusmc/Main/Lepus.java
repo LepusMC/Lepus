@@ -1,4 +1,4 @@
-package net.lepus.lepus;
+package net.lepusmc.Main;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -13,5 +13,6 @@ public final class Lepus extends JavaPlugin {
     @Override
     public void onDisable() {
         // Plugin shutdown logic
+
     }
 }

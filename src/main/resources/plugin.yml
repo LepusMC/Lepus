@@ -1,5 +1,5 @@
 name: Lepus
 version: ${project.version}
-main: net.lepus.lepus.Lepus
+main: net.lepusmc.lepus.Lepus
 api-version: 1.16
 authors: [ Lepus ]
