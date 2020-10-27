@@ -1,5 +1,6 @@
-package net.lepusmc.Objects;
+package net.lepusmc.Upcoming;
 
+import net.lepusmc.Enums.LepusRank;
 import org.bukkit.command.CommandSender;
 
 public interface LepusCommand {

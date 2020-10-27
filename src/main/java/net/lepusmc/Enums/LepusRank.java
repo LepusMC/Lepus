@@ -1,4 +1,4 @@
-package net.lepusmc.Objects;
+package net.lepusmc.Enums;
 
 import net.md_5.bungee.api.ChatColor;
 
